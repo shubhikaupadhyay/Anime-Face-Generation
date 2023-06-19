@@ -10,11 +10,11 @@ https://www.kaggle.com/datasets/soumikrakshit/anime-faces
 Kaggle
 
 ### Used Libraries :
-	- numpy
-	- matplotlib
-	- keras
-	- tensorflow
-	- nltk
+- numpy
+- matplotlib
+- keras
+- tensorflow
+- nltk
 
 ### Neural Network :
 DCGAN (Deep Convolutional Generative Adversarial Network)
